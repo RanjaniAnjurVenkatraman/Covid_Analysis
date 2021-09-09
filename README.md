@@ -1,5 +1,5 @@
 # Covid_Analysis
-To analyse the global covid trend in last 30 days.  
+To analyse the global covid trend in last 30 days. Implemented visualization using gmaps, regression analysis, heatmap and hypothesis testing   
 
 # Analysis of Covid-19 and Vaccination Count Over the Past 30 Days
 

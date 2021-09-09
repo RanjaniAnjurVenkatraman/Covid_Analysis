@@ -1,5 +1,5 @@
 # Covid_Analysis
-To find latest 30 days trend
+To analyse the global covid trend in last 30 days.  
 
 # Analysis of Covid-19 and Vaccination Count Over the Past 30 Days
 
